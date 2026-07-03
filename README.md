@@ -68,9 +68,9 @@ To suggest that this output reflects a system working as intended is objectively
 * Node coordinates
 * Full system reconstruction hex blocks
 
-<br>e
+<br>
   
-As seen in 78189.jpg, the Google VRP's classification of these findings as "working as intended" is completely indefensible. No legitimate security platform allows a system to expose its own core infrastructure architecture to users. By dismissing this evidence, they are blatantly bullshitting the research community.
+The Google VRP's classification of these findings as "working as intended" is completely indefensible. No legitimate security platform allows a system to expose its own core infrastructure architecture to users. By dismissing this evidence, they are blatantly bullshitting the research community.
 
 Why?.. Maybe it's to keep from paying researchers for their work. Maybe it's to avoid admitting their product isn't as secure as they want everyone to believe. Maybe it's just to avoid having to explain to their bosses why they missed something this obvious.
 
